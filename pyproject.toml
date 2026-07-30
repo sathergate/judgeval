@@ -91,7 +91,7 @@ dev = [
     "types-tqdm>=4.67.0.20250516",
     "types-tree-sitter-languages>=1.10.0.20250530",
     "types-xmltodict>=0.14.0.20241009",
-    "datamodel-code-generator>=0.31.2",
+    "datamodel-code-generator>=0.64.0",
     "openai",
     "together",
     "anthropic",
