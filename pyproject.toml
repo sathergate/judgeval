@@ -17,7 +17,7 @@ license = "Apache-2.0"
 license-files = ["LICENSE.md"]
 dependencies = [
     "rich",
-    "litellm>=1.61.15",
+    "litellm>=1.88.6",
     "python-dotenv",
     "requests",
     "boto3",
